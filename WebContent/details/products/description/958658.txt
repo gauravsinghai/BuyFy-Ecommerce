@@ -1,0 +1,10 @@
+Processor: AMD Ryzen 7 4800H Processor 2.9 GHz (8MB Cache, up to 4.2 GHz, 8 Cores, 16 Threads)
+Memory & Storage: 8GB DDR4 3200MHz RAM, Upgradeable up to 32GB using 2x SO-DIMM Slot with | Storage: 1TB 5400RPM 2.5-inch SATA HDD + 256GB M.2 NVMe PCIe 3.0 SSD
+Graphics: Dedicated NVIDIA GeForce GTX 1650 Ti GDDR6 4GB VRAM
+Display: 15.6-inch (16:9) LED-backlit FHD (1920x1080) 144Hz Refresh Rate, Anti-Glare IPS-level Panel with 45% NTSC and Adaptive Sync Technology
+Operating System: Pre-loaded Windows 10 Home (64bit) with lifetime validity
+Design & battery: NanoEdge bezels | Bonfire Black design accented with crimson stripe | Laptop Weight: 2.30 Kg | 48WHrs, 3-cell Lithium-Polymer Battery
+Cooling System: Dual-Fan Design | Self-Cleaning Cooling | Operating Modes for Optimize Cooling
+Audio: DTS:X Ultra technology | 1.8x Louder Volume | 2.7x Deeper Bass | Optimized Strategy/RPG/Shooter Audio Modes
+I/O Ports : 1 x 3.5mm COMBO audio jack | 1x Type-A USB2.0 | 2x Type-A USB 3.2 (Gen 1) | 1x Type-C USB 3.2 (Gen 2) with display support DP1.4 | 1x RJ45 LAN jack for LAN insert | 1x HDMI support 2.0b
+Other: One-Zone RGB backlighting Keyboard | Wi-Fi 5 (802.11ac) 2*2 | Bluetooth 5.0 | HD 720p CMOS module Web Camera 

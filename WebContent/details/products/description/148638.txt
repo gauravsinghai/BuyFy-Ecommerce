@@ -1,0 +1,6 @@
+Sole: Rubber
+Closure: Lace-Up
+Shoe Width: Regular
+Outer Material: Synthetic
+Closure Type: Lace-Up
+Toe Style: Round Toe

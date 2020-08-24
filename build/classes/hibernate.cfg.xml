@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+
+	<session-factory>
+		<!-- JDBC Database connection settings -->
+		<property name="connection.driver_class">oracle.jdbc.driver.OracleDriver</property>
+		<property name="connection.url">jdbc:oracle:thin:@localhost:1521:xe</property>
+		<property name="connection.username">buyfy</property>
+		<property name="connection.password">buyfy</property>
+
+		<!-- JDBC connection pool settings ... using built-in test pool -->
+		<property name="connection.pool_size">3</property>
+
+		<!-- Select our SQL dialect -->
+		<!--property name="dialect">org.hibernate.dialect.OracleDialect</property>-->
+		<property name="dialect">org.hibernate.dialect.Oracle8iDialect</property>
+		<!-- Echo the SQL to stdout -->
+		<property name="show_sql">false</property>
+		<!-- Set the current session context -->
+		<property name="current_session_context_class">thread</property>
+		<property name="hibernate.hbm2ddl.auto">update</property>
+		
+		<mapping class="com.buyfy.model.Address"/>
+		<mapping class="com.buyfy.model.Cart"/>
+		<mapping class="com.buyfy.model.Category"/>
+		<mapping class="com.buyfy.model.Feedback"/>
+		<mapping class="com.buyfy.model.Image"/>
+		<mapping class="com.buyfy.model.Order"/>
+		<mapping class="com.buyfy.model.Product"/>
+		<mapping class="com.buyfy.model.ProductQuantity"/>
+		<mapping class="com.buyfy.model.ProductReview"/>
+		<mapping class="com.buyfy.model.User"/>
+	</session-factory>
+
+</hibernate-configuration>

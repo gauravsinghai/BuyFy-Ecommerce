@@ -1,0 +1,4 @@
+Processor: Intel Core i7-9750H (2.6 GHz base frequency, up to 4.5 GHz base with Intel Turbo Boost Technology, 12 MB cache, 6 cores)
+Memory and Storage: 8 GB DDR4-2666 SDRAM (1 x 8 GB); 1 TB 7200 rpm SATA + 256 GB PCIe NVMe M.2 SSD
+Display and Graphics: 39.62 cm (15.6) diagonal FHD 144Hz IPS anti-glare micro-edge WLED-backlit (1920 x 1080); NVIDIA GeForce GTX 1650 Graphics (4 GB GDDR5 dedicated)
+Operating System and Added Software: Windows 10 Home; Microsoft Office 2019 - Home and Student Edition

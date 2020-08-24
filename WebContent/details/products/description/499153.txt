@@ -1,0 +1,17 @@
+Processor: 10th Generation Intel i5-1035G7 Processor, Quad-Core, 1.2 Ghz
+Display: 13.5 inch 2496 x 1664 Pixelsense display | Touchscreen enabled
+Memory & Storage : 8GB LPDDR4X RAM with Intel Iris Plus Graphics| Storage: 128 GB SSD
+Preinstalled software: Windows 10 Home with lifetime validity, Microsoft Office 365 30-day trial | In the box: Surface Laptop 3, Power Supply, Quick Start Guide, Safety and warranty documents
+In the box details : Surface Laptop 3, Power Supply, Quick Start Guide, Safety and warranty documents
+Keyboard finish : Alcantara material palm rest                                Processor Speed	1.2 GHz
+Processor Count	4
+RAM Size	8 GB
+Memory Technology	LPDDR4X
+Hard Drive Size	128 GB
+Hard Disk Technology	Flash Memory Solid State
+Speaker Description	Omnisonic Speakers with Dolby® AudioTM
+Graphics Coprocessor	Intel Iris Plus Graphics
+Graphics Chipset Brand	Intel
+Graphics Card Description	Integrated
+Number of USB 3.0 Ports	1
+Number of Audio-out Ports	1
